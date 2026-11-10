@@ -23,4 +23,4 @@ and again equal to
 
 ------
 ## INSTALLATION:
-Just drop the `CaseInsensitiveLogin.dll` from the Releases tab to your ServerPlugins directory and restart TShock
+Just drop the `CaseInsensitiveLogin.dll` from the [Releases tab](https://github.com/red9350/Case-Insensitive-Login-TShock-Plugin/releases) to your ServerPlugins directory and restart TShock
