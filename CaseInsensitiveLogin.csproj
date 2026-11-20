@@ -6,6 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+ <ItemGroup>
+    <Compile Include="CaseInsensitiveLogin.cs" />
+  </ItemGroup>
+
   <ItemGroup>
     <Reference Include="TShockAPI">
       <HintPath>TShockAPI.dll</HintPath>
